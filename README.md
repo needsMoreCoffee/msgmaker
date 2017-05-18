@@ -2,7 +2,7 @@
 
 A Ruby email test script for sending MANY of the same email.This was more or less just a fun way to test a MX server of various things by sending a ton of emails . 
 
-#Usage
+# Usage
 
 Download localy . 
 Run: ruby msgmaker.rb
